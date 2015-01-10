@@ -1,10 +1,10 @@
-RFLED-Server
+milight-bridge
 ============
 
-Python Scripts to run UDP servers to emulate a LimitlessLED WiFi Bridge 4.0 unit.
+Python script to run UDP server to emulate a LimitlessLED WiFi Bridge 4.0 unit.
 
 Install
 =======
 
- * Change the variables in both scripts to meet your needs
- * Start the scripts and they will start the UDP listeners
+ * Change the variables at the top of bridge.py
+ * Run bridge.py
